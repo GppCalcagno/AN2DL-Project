@@ -35,6 +35,12 @@ In order to archive the best result and learn the main difficulties of the devel
 
 In this task, we are required to correctly classify among 12 possible labels samples from 6 different time series in the multivariate time series format. The Dataset is available [on kaggle](https://www.kaggle.com/datasets/giuseppecalcagno/an2dl-challenge2)
 
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/94358195/224504823-4f121c63-6b94-4f32-9a64-07a0771dfb73.png)
+
+</div>
+
 In order to archive the best result and learn the main difficulties of the developing, me and my team decided to follow this steps:
 * Conv1D and LSTM Network
 * Data Augmentation 
